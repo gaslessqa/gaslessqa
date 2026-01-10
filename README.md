@@ -8,7 +8,7 @@ With over 10 years of experience in software testing and 5+ years focused on aut
 
 ## 🧪 Areas of Expertise
 
-- **Test Automation**: WebdriverIO, Selenium, Appium, Cucumber, Node.js for E2E and API testing.
+- **Test Automation**: WebdriverIO, Selenium, Playwright, Appium, Cucumber, Node.js for E2E and API testing.
 - **Manual Testing**: Functional, regression, system testing; requirements analysis and refinement.
 - **Agile QA**: Active participation in Scrum teams with Jira & Confluence.
 - **CI/CD Pipelines**: Jenkins, Git, version control and deployment automation.
@@ -25,7 +25,7 @@ With over 10 years of experience in software testing and 5+ years focused on aut
 - Wallet and transaction simulation with protocols like Aave, Uniswap V3.
 - Testing decentralized systems and preparing for smart contract auditing workflows.
 
-🛠️ Interested in contributing QA skills to next-gen blockchain platforms like **Shardeum**, **Ethereum L2**, and **Arweave**.
+🛠️ Interested in contributing QA skills to next-gen blockchain platforms
 
 ---
 
@@ -41,9 +41,10 @@ With over 10 years of experience in software testing and 5+ years focused on aut
 
 ## 📫 Let's Connect
 
-- 📧 Email: raul.gonzalez.casado@hotmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/raulgonzalezcasado)
-
+- 📧 Email: gaslessqa@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gaslessqa/)
+- 🌍 Based in Spain, open to remote opportunities
+ 
 ---
 
 ## 💡 A bit more about me
